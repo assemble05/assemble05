@@ -18,6 +18,6 @@
   <a href = "mailto:joneto18.jh@gmail.com@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joão-henrique-pereira-neto-6776251ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/assemble05/assemble05/blob/output/github-contribution-grid-snake.svg)
+
  
 </div>
