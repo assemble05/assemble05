@@ -1,4 +1,4 @@
-<h2 align="center"> Olá eu sou João Neto, desenvolvedor Front-End</h2>
+<h2 align="center"> Olá eu sou João Neto, desenvolvedor Web full-stack Jr</h2>
 <div align="center">
   <a href="https://github.com/assemble05">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=assemble05&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
